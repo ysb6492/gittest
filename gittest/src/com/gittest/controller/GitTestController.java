@@ -5,4 +5,7 @@ public class GitTestController {
 		System.out.println("별찍기");
 		
 	}
+	public String checkStr() {
+		return "점심언제먹지?";
+	}
 }
